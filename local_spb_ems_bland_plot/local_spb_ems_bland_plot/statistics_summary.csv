@@ -1,0 +1,2 @@
+n,sbp_mean,sbp_std,sbp_median,sbp_min,sbp_max,emssbp_mean,emssbp_std,emssbp_median,emssbp_min,emssbp_max,delta_mean,delta_std,delta_median,delta_min,delta_max,correlation,paired_t_stat,paired_t_pvalue,upper_loa,lower_loa
+30,128.6,11.7121020031988,129.0,105,150,126.56666666666666,11.635243396203144,127.0,103,148,2.033333333333333,0.6046119049072352,2.0,1,3,0.9986804139688447,18.110518530924686,2.3736006784280727e-17,3.218372666951514,0.8482939997151524
